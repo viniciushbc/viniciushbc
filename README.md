@@ -1,4 +1,4 @@
-<h1 align="center"> <i>Vinícius's github</i> </h1>
+<h1 align="center"> 👉<i>Vinícius's github</i>👈 </h1>
 <h3 align="center"> 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧  </h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciushbc&theme=dark&show_icons=true&locale=en" alt="viniciushbc"/></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciushbc&theme=dark" alt="viniciushbc" /> </p>
