@@ -1,9 +1,9 @@
-<h1 align="center"> 👉<i>Vinícius's github</i>👈 </h1>
-<h3 align="center"> 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧 🟧  </h3>
+<h1 align="center"> <i>Vinícius's github</i> </h1>
+<h3 align="center"> 🟧 🟧 🟧  </h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciushbc&theme=dark&show_icons=true&locale=en" alt="viniciushbc"/></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciushbc&theme=dark" alt="viniciushbc" /> </p>
 
-<h4 align="center">🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 </h4>
+<h4 align="center">🟩 🟩 🟩 </h4>
 
 <h3 align="center"><b>Languages:</b></h3>
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
