@@ -1,16 +1,34 @@
-<h1 align="center"> <i>Vinícius's github</i> </h1>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciushbc&theme=dark&show_icons=true&locale=en" alt="viniciushbc"/></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciushbc&theme=dark" alt="viniciushbc" /> </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushbc&size_weight=0.5&count_weight=0.5&theme=dark" alt="viniciushbc" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Vinícius+Henrique+Budag+Coelho;Welcome+to+my+GitHub!+%F0%9F%91%BD" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciushbc&show_icons=true&hide=prs&theme=radical&hide_border=true&border_radius=8&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushbc&layout=compact&theme=radical&hide_border=true&card_width=300" />
+</p>
 
-<h3 align="center"><b>Languages:</b></h3>
-<p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciushbc&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
 
-<h3 align="center"><b>Tools:</b></h3>
+---
 
-<h3 align="left">Connect by:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/viníciushbcoelho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinícius-henrique-b24203234/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21009626/vini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21009626/vini" height="30" width="40" /></a>
+<h3 align="center">🛠️ Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" title="Google Colab" />
+</p>
+
+---
+
+<h3 align="center">📡 Contato</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/viníciushbcoelho/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-viníciushbcoelho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/21009626/vini" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-vini-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
 </p>
