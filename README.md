@@ -1,6 +1,3 @@
-<h1 align="center">Vinícius Budag Coelho</h1>
-<p align="center"><i>Welcome to my GitHub!</i></p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Vinícius+Budag+Coelho;Welcome+to+my+GitHub!" />
 </p>
