@@ -1,6 +1,10 @@
+<h1 align="center">Vinícius Budag Coelho</h1>
+<p align="center"><i>Welcome to my GitHub!</i></p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Vinícius+Budag+Coelho;Welcome+to+my+GitHub!+%F0%9F%91%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Vinícius+Budag+Coelho;Welcome+to+my+GitHub!" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viniciushbc&show_icons=true&hide=prs&theme=radical&hide_border=true&border_radius=8&card_width=400" />
