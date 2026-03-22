@@ -34,12 +34,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
