@@ -61,6 +61,21 @@
 ## Projects
 
 <p align="center">
+  <a href="https://github.com/viniciushbc/CRUD-PedidoProduto" target="_blank">
+    <img src="https://img.shields.io/badge/CRUD%20Pedido%20Produto-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://github.com/viniciushbc/e-commerce-caseadopontocom" target="_blank">
     <img src="https://img.shields.io/badge/E--commerce%20CaseadoPontoCom-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
